@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER "korea-lee <hyunyong.lee@ocmkorea.com>"
+MAINTAINER "jeong <tjdrbs7844@gmail.com>"
 LABEL "purpose"="practice"
 RUN apt-get update
 RUN apt-get install apache2 -y
